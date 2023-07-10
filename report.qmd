@@ -3,3 +3,11 @@ title: "TITLE"
 format: html
 editor: visual
 ---
+
+```{r}
+library(readr)
+```
+
+```{r}
+data_in <- read_csv("data-tidy/")
+```
