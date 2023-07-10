@@ -1,7 +1,0 @@
----
-title: "TITLE"
-format:
-  html: 
-    embed-resources: true
-editor: visual
----
